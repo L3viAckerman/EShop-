@@ -1,0 +1,2 @@
+C:\Users\LinhLPV\source\Workspaces\ESHOP\CodeGen\obj\Debug\CodeGen.csprojAssemblyReference.cache
+C:\Users\LinhLPV\source\Workspaces\ESHOP\CodeGen\obj\Debug\CodeGen.csproj.CoreCompileInputs.cache
